@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#ha:hover{
+    transform: scale(1
+    .1);
+}
+.d{
+    text-align: center;
+    
+}
+.bg{
+   
+    background-image: url(Image/png.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.hg{
+    color: black;
+    font-weight: bold;
+}
+.hg h2{
+    font-size: 10vmin;
+    padding-left: 9%;
+}
+.hg P{
+    font-size: 11vmin;
+    
+}
+.hg h1{
+    font-size: 7vmin;
+    padding-left: 3%;
+}
+.bgm{
+    background-image: url(Image/pexels-antonio-sokic-3839432.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.bgw{
+    background-image: url(Image/pexels-sam-lion-5709659.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.bgk{
+    background-image: url(Image/pexels-rachel-claire-5490970.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.bgf{
+    background-image: url(Image/pexels-valeria-boltneva-965989.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.text h1{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 7vmin;
+    font-weight: bold;
+}
+#ff:hover{
+ transform: scale(1.1);
+ transition: 1s;
+}
+.Q{
+    text-align: center;
+    padding-top: 2%;
+}
+.w{
+    color: black;
+    font-weight: bold;
+}
+.pr{
+    padding-top: 20%;
+    font-size: 7vmin;
+}
+/* @media screen and (max-width: 390px) {
+    .bg{
+        
+        width: 100%;
+        background-image: url(Image/Capturebg.png);
+
+    }
+    
+} */
